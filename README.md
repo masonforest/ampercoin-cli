@@ -44,7 +44,7 @@ Attach a shorter address
 
     $ amp shorten '&2FMHhuPMXN9DSCKihAHQZytTxAYV' --to '&somecoolname' --bid 500
 
-Submitted bid to shorten address...
+    Submitted bid to shorten address...
 
     Your address '&2FMHhuPMXN9DSCKihAHQZytTxAYV' has been shortened to '&somecoolguy'
 
