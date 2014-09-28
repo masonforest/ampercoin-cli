@@ -46,7 +46,7 @@ Attach a shorter address
 
     Submitted bid to shorten address...
 
-    Your address '&2FMHhuPMXN9DSCKihAHQZytTxAYV' has been shortened to '&somecoolguy'
+    Your address &2FMHhuPMXN9DSCKihAHQZytTxAYV has been shortened to &somecoolguy
 
 
 ## Contributing
