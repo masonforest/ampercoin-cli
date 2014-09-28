@@ -32,7 +32,7 @@ Transfer from the account you just created to '&mason'
 
     $ amp transfer 100 --from 1 --to '&mason'
 
-    List your accounts
+List your accounts
 
     $ amp ls
 
@@ -40,14 +40,13 @@ Transfer from the account you just created to '&mason'
     ---|-------------------------------|--------
     1  | &2FMHhuPMXN9DSCKihAHQZytTxAYV | 2500
 
-    Attach a shorter address
+Attach a shorter address
 
     $ amp shorten '&2FMHhuPMXN9DSCKihAHQZytTxAYV' --to '&somecoolname' --bid 500
 
-    Submitted bid to shorten address...
+Submitted bid to shorten address...
 
-    Your address '&2FMHhuPMXN9DSCKihAHQZytTxAYV' has been shortened to
-'&somecoolguy'
+    Your address '&2FMHhuPMXN9DSCKihAHQZytTxAYV' has been shortened to '&somecoolguy'
 
 
 ## Contributing
